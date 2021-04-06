@@ -17,7 +17,7 @@ Commit hasilnya pada repository masing-masing.
 Kirim URL repository pada e-learning ecampus.
 Screen Shoot beserta Penjelasan :
 
-Untuk yang pertama ini adalah untuk membuat dokumen HTMLnya, Beserta tampilan pada browsernya.
+Untuk yang pertama ini adalah untuk membuat dokumen HTMLnya, Beserta tampilan pada browsernya.IMG20210406061044.jpg
 Kemudian deklarasi ini adalah deklarasi css internal pada bagian head dokumen.
 Kemudian deklarasi ini deklarasi inline untuk merubah warna teks pada dokumen.
 Kemudian menggunakan tag link untuk merujuk ke file css khusus.
