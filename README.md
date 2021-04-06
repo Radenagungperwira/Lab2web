@@ -17,8 +17,8 @@ Commit hasilnya pada repository masing-masing.
 Kirim URL repository pada e-learning ecampus.
 Screen Shoot beserta Penjelasan :
 
-Untuk yang pertama ini adalah untuk membuat dokumen HTMLnya, Beserta tampilan pada browsernya.
-Kemudian deklarasi ini adalah deklarasi css internal pada bagian head dokumen.
-Kemudian deklarasi ini deklarasi inline untuk merubah warna teks pada dokumen.
+Untuk yang pertama ini adalah untuk membuat dokumen HTMLnya, Beserta tampilan pada browsernya.https://raw.githubusercontent.com/Radenagungperwira/Lab2web/main/IMG20210406061044.jpg
+Kemudian deklarasi ini adalah deklarasi css internal pada bagian head dokumen.https://raw.githubusercontent.com/Radenagungperwira/Lab2web/main/IMG20210406062123.jpg
+Kemudian deklarasi ini deklarasi inline untuk merubah warna teks pada dokumen.https://raw.githubusercontent.com/Radenagungperwira/Lab2web/main/IMG20210406062107.jpg
 Kemudian menggunakan tag link untuk merujuk ke file css khusus.
 Kemudian menambahkan css selector yang menggunakan ID dan class selector untuk memberikan style yang berbeda pada HTML.
